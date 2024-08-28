@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm a passionate **SQL Developer** and **Database Administ
 ### [NatureQuest-Adventures](https://github.com/rohitaragde/NatureQuest-Flask-Web-App)
 A Flask-based website that provides interactive adventures in nature. This project showcases my skills in web development and database management.
 
-### [Loan Repayment Prediction](https://github.com/rohitaragde/Loan-Repayment-Prediction) 
+### [Loan Repayment Prediction](https://github.com/rohitaragde/Loan_Repayment_Prediction_Analysis_System) 
 A machine learning project focused on predicting loan repayment. It includes data preprocessing, exploratory data analysis, model training, and evaluation.
 
 ### [Uber-ETL-Automation-with-Airflow-Mage](https://github.com/rohitaragde/Uber-ETL-Automation-with-Airflow-Mage)
