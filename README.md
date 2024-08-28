@@ -49,6 +49,9 @@ A machine learning project focused on predicting loan repayment. It includes dat
 ### [Uber-ETL-Automation-with-Airflow-Mage](https://github.com/rohitaragde/Uber-ETL-Automation-with-Airflow-Mage)
 Orchestrated ETL process with Mage, enhancing system efficiency and streamlining data loading from Google Cloud bucket to Google Big Query tables. Analyzed taxi trip data to optimize routing, reduce wait times by 15%, and achieved 90% accuracy with over 50K data points.
 
+### [Covid-19 Data ETL Automation with Airflow](https://github.com/rohitaragde/Covid-19-Data-ETL-Automation-with-Airflow)
+Developed a robust ETL pipeline using Apache Airflow to automate the ingestion, transformation, and loading of Covid-19 data from various sources into a centralized database. This project highlights my ability to handle large datasets and automate data workflows for real-time analytics.
+
 ## 💼 Professional Experience
 
 ### Data Engineer Coop Intern: Exelon Inc. | Newark, Delaware, USA (SQL Server, Azure Studio, Azure Synapse Analytics)
