@@ -43,22 +43,22 @@ Welcome to my GitHub! I'm a passionate **SQL Developer** and **Database Administ
 ## [Collaborative Chat Application using QUIC](https://github.com/rohitaragde/Collaborative-Chat-Application-QUIC)
 Developed a chat application using QUIC (Quick UDP Internet Connections) protocol for real-time, low-latency communication. This project highlights my expertise in networking, Go programming, and implementing custom protocols.
 
-### [NatureQuest-Adventures](https://github.com/rohitaragde/NatureQuest-Flask-Web-App)
+## [NatureQuest-Adventures](https://github.com/rohitaragde/NatureQuest-Flask-Web-App)
 A Flask-based website that provides interactive adventures in nature. This project showcases my skills in web development and database management.
 
-### [Loan Repayment Prediction](https://github.com/rohitaragde/Loan_Repayment_Prediction_Analysis_System) 
+## [Loan Repayment Prediction](https://github.com/rohitaragde/Loan_Repayment_Prediction_Analysis_System) 
 A machine learning project focused on predicting loan repayment. It includes data preprocessing, exploratory data analysis, model training, and evaluation.
 
-### [Uber-ETL-Automation-with-Airflow-Mage](https://github.com/rohitaragde/Uber-ETL-Automation-with-Airflow-Mage)
+## [Uber-ETL-Automation-with-Airflow-Mage](https://github.com/rohitaragde/Uber-ETL-Automation-with-Airflow-Mage)
 Orchestrated ETL process with Mage, enhancing system efficiency and streamlining data loading from Google Cloud bucket to Google Big Query tables. Analyzed taxi trip data to optimize routing, reduce wait times by 15%, and achieved 90% accuracy with over 50K data points.
 
-### [Covid-19 Data ETL Automation with Airflow](https://github.com/rohitaragde/Covid-19-Data-ETL-Automation-with-Airflow)
+## [Covid-19 Data ETL Automation with Airflow](https://github.com/rohitaragde/Covid-19-Data-ETL-Automation-with-Airflow)
 Developed a robust ETL pipeline using Apache Airflow to automate the ingestion, transformation, and loading of Covid-19 data from various sources into a centralized database. This project highlights my ability to handle large datasets and automate data workflows for real-time analytics.
 
-### [PySpark House Prices Analysis](https://github.com/rohitaragde/PySpark-House-Prices-Analysis)
+## [PySpark House Prices Analysis](https://github.com/rohitaragde/PySpark-House-Prices-Analysis)
 A data analysis project using PySpark to explore and predict house prices. This project demonstrates my ability to work with large datasets, perform data transformations, and apply machine learning models in a distributed environment.
 
-### [FitTrack](https://github.com/rohitaragde/FitTrack)
+## [FitTrack](https://github.com/rohitaragde/FitTrack)
 Developed a fitness tracking application that allows users to monitor their workouts and progress. This project involved the integration of APIs, database management, and creating a user-friendly interface.
 
 
