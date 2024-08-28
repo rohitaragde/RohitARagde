@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm a passionate **SQL Developer** and **Database Administ
 - SQL Server
 - MySQL
 - PostgreSQL
-- Teradata Studio
-- Oracle SQL Developer
+- Teradata
+- Oracle
 
 **Frameworks:**
 - Apache Spark
@@ -34,18 +34,9 @@ Welcome to my GitHub! I'm a passionate **SQL Developer** and **Database Administ
 - Visual Studio Code
 - Git
 - Microsoft SQL Server Management Studio
-- Teradata BTEQ, TPT, Viewpoint
+- Oracle SQL Developer
+- Teradata Studio, Terdata SQL Assistant, Teradata BTEQ, Teradata TPT, Teradata Viewpoint
 
-**Soft Skills:**
-- Constructive Criticism
-- Creativity
-- Flexibility
-- Curiosity
-- Interpersonal Skills
-- Supervision
-- Facilitate Independent Work
-- Group Work
-- Industry Standards
 
 ## 🚀 Featured Projects
 
