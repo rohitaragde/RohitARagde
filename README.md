@@ -110,6 +110,12 @@ Bachelor of Engineering – Computer Engineering
 - **Oracle Database SQL 1Z0-071 Certification** [(Credential)](https://shorturl.at/hltW6) | Oracle
 - **Published Research Paper** | *IRJET ’19: Effective Hospital Management System* | TCET
 
+## 📜 Certifications  
+- [Teradata Database Vantage Certification](https://www.credly.com/badges/a669ea34-cc59-4553-9138-1a77e2a5b3dc)  
+- [Oracle SQL Certification](https://www.credly.com/badges/47cd0e7c-adbe-49dc-b57e-b0a4006eb34c)  
+- [Other Certifications](https://www.credly.com/users/rohit-ragde)
+
+
 ## 📫 Contact Me
 
 - **Email:** ragderohit2024@gmail.com
